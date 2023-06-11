@@ -27,11 +27,17 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  F3RC-commitee
 
-# Build settings
 plugins:
-  - jekyll-feed
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+readme_index:
+  with_frontmatter: true
+  
+defaults:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
