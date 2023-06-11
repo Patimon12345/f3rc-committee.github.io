@@ -1,18 +1,23 @@
 ---
-layout: page
-title: About
+title: F3RCについて
 permalink: /about/
 ---
+# F<sup>3</sup>RCについて
+## 大会意義
+NHK(ABU)ロボットコンテストにより近い環境で、ロボットコンテストに必要な創造性や技術を磨くと共に、ロボット製作の楽しさを体感し、また組織の底上げを行う。  
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## F<sup>3</sup>RCへ参加することのメリット
+- 回路・機構・制御などのロボット製作に関する基本的な技術について学ぶことができる
+- チームごとにマシンを製作することにより、チーム運営に必要な経験を得ることができる
+- 大会や運営等を通じて、これまで遅れがちであった他大学との交流を深めることができる  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 運営体制
+今年度は、慶應義塾大学、千葉工業大学、電気通信大学、東京大学、明治大学、ものつくり大学、横浜国立大学、早稲田大学の8大学による共同運営を行う。  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 大会参加資格・規定
+1. 正式にサークルおよびプロジェクトに参加登録している者
+1. 新入生であれば学年は問わない
+1. 新入生でなくとも２年生までは出場可能とする。１年生の時にF<sup>3</sup>RCに出場した者も可
+1. ２年生のみで構成されるチームは認めない。必ず１年生を含むこと
+1. 競技者としてフィールドに入ることができる人数は1チーム３名までとする  
 
-
-[jekyll-organization]: https://github.com/jekyll
