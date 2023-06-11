@@ -1,5 +1,6 @@
 ---
 title: FAQ
+sort: 2
 ---
 
 # FAQ
