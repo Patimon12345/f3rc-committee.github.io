@@ -1,6 +1,5 @@
 ---
 title: F3RCについて
-permalink: /about/
 ---
 # F<sup>3</sup>RCについて
 ## 大会意義
