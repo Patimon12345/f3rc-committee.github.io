@@ -3,28 +3,26 @@
 ==============*/
 
 .bg_pattern {
-    position: fixed;
     top: 0;
     left: 0;
-    width: 100vw;
-    height: 100vh;
     background-color: #ffffff;
     opacity: 1;
     z-index: -1;
 }
 
 .ZigZag_3D {
-    background-color: #aab;
-    background-image: linear-gradient(30deg, #99a 12%, transparent 12.5%, transparent 87%, #99a 87.5%, #99a),
-        linear-gradient(150deg, #99a 12%, transparent 12.5%, transparent 87%, #99a 87.5%, #99a),
-        linear-gradient(30deg, #99a 12%, transparent 12.5%, transparent 87%, #99a 87.5%, #99a),
-        linear-gradient(150deg, #99a 12%, transparent 12.5%, transparent 87%, #99a 87.5%, #99a),
+    background-color: #ccd;
+    background-image: linear-gradient(30deg, #bbc 12%, transparent 12.5%, transparent 87%, #bbc 87.5%, #bbc),
+        linear-gradient(150deg, #bbc 12%, transparent 12.5%, transparent 87%, #bbc 87.5%, #bbc),
+        linear-gradient(30deg, #bbc 12%, transparent 12.5%, transparent 87%, #bbc 87.5%, #bbc),
+        linear-gradient(150deg, #bbc 12%, transparent 12.5%, transparent 87%, #bbc 87.5%, #bbc),
         linear-gradient(60deg, #eef 25%, transparent 25.5%, transparent 75%, #eef 75%, #eef),
         linear-gradient(60deg, #eef 25%, transparent 25.5%, transparent 75%, #eef 75%, #eef);
     background-size: 80px 140px;
+    background-attachment: fixed;
     background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
 }
 
 .content-wrap {
-    height: 100vh;
+    min-height: 100vh;
 }
