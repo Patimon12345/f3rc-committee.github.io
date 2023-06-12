@@ -16,7 +16,7 @@ layout: default
 <br><br>
 
 ## 資料
-[ルールブック ver.0.2](../data/2023/F3RC2023_Rule Book_Version 0.2.pdf)  
+<!-- [ルールブック ver.0.2](../data/2023/F3RC2023_Rule Book_Version 0.2.pdf)   -->
 フィールド・オブジェクト図（未発表）  
 大会要項（未発表）  
 エントリーシート（未発表）  
