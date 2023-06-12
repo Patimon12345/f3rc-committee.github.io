@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 # F<sup>3</sup>RC 
-F<sup>3</sup>RC（エフキューブRC）とは、複数の大学が合同で開催している、  
-NHKロボコンへの参加を目指す新入生の技術向上を目的としたロボットコンテストです。
+F<sup>3</sup>RC（エフキューブアールシー）とは、複数の大学が合同で開催している、NHKロボコンへの参加を目指す新入生の技術向上を目的としたロボットコンテストです。
 
 ## 2023年度大会
 [大会概要](/F3RC2023/outline)
