@@ -26,6 +26,5 @@ NHK(ABU)ロボットコンテストにより近い環境で、ロボットコン
 1. 競技者としてフィールドに入ることができる人数は1チーム３名までとする  
 
 ## 連絡先
-委員会メールアドレス：contact_dot_f3rc_dot_committee_at_gmail_dot_com
-
+委員会メールアドレス：contact_dot_f3rc_dot_committee_at_gmail_dot_com  
 (_at_を@に、_dot_を.に変えてください)
