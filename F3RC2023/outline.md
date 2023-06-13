@@ -20,4 +20,13 @@ layout: default
 ルールブック（未発表）  
 フィールド・オブジェクト図（未発表）   
 [大会要項](../data/2023/pdf/F³RC2023_応募要項.pdf)  
-[エントリーシート](https://docs.google.com/document/d/1E4uAuGOZSsTfvgfPsCg1bpsDls4FYzQjs3Lvv0KVeA4/edit?usp=sharing)    
+[エントリーシート](https://docs.google.com/document/d/1E4uAuGOZSsTfvgfPsCg1bpsDls4FYzQjs3Lvv0KVeA4/edit?usp=sharing)   
+
+## 大会出場までの流れ
+大会出場までの流れは以下の通りです。大会要項をよく読んで、エントリーシートを提出してください。
+
+1. エントリーシート・ルール資料公開：2023年6月13日 (火)
+1. エントリーシート締切：6月30日 (金) 18時 まで
+1. ロボット説明書公開：7月上旬
+1. ロボット説明書締切：8月18日 (金) 18時 まで
+1. 大会出場：9月6日 (水) 、9月7日 (木)
