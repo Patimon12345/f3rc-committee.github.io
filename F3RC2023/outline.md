@@ -20,4 +20,4 @@ layout: default
 ルールブック（未発表）
 フィールド・オブジェクト図（未発表）  
 [大会要項](../data/2023/pdf/F³RC2023_応募要項.pdf)
-エントリーシート（未発表）  
+[エントリーシート](https://docs.google.com/document/d/1E4uAuGOZSsTfvgfPsCg1bpsDls4FYzQjs3Lvv0KVeA4/edit?usp=sharing)  
