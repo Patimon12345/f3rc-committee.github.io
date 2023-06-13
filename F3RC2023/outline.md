@@ -16,10 +16,10 @@ layout: default
 <br><br>
 
 ## 資料
-[ルールブック ver.1.0](../data/2023/pdf/F3RC2023_RuleBook_Ver.1.0.pdf)     
-フィールド・オブジェクト図（未発表）   
-[大会要項](../data/2023/pdf/F3RC2023_応募要項.pdf)  
-[エントリーシート](https://docs.google.com/document/d/1E4uAuGOZSsTfvgfPsCg1bpsDls4FYzQjs3Lvv0KVeA4/edit?usp=sharing)   
+[ルールブック Ver.1.0](../data/2023/pdf/F3RC2023_RuleBook_Ver.1.0.pdf)     
+フィールド・オブジェクト図（未公開）   
+[応募要項](../data/2023/pdf/F3RC2023_応募要項.pdf)  
+[エントリーシートテンプレート](https://docs.google.com/document/d/1E4uAuGOZSsTfvgfPsCg1bpsDls4FYzQjs3Lvv0KVeA4/edit?usp=sharing)   
 
 ## 大会出場までの流れ
 大会出場までの流れは以下の通りです。大会要項をよく読んで、エントリーシートを提出してください。
