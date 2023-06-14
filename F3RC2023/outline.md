@@ -18,7 +18,6 @@ layout: default
 ## 資料
 [ルールブック Ver. 1.0](../data/2023/pdf/F3RC2023_RuleBook_Ver.1.0.pdf)     
 [フィールド図面・オブジェクト図面 Ver. 1.0](https://github.com/F3RC-committee/f3rc-committee.github.io/files/11743241/F3RC2023_._._Ver.1.0.pdf)
-
 [応募要項](../data/2023/pdf/F3RC2023_応募要項.pdf)  
 [エントリーシートテンプレート](https://docs.google.com/document/d/1E4uAuGOZSsTfvgfPsCg1bpsDls4FYzQjs3Lvv0KVeA4/edit?usp=sharing)   
 
