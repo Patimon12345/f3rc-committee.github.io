@@ -20,10 +20,6 @@
 
 title: F3RC
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  F3RCのホームページです。
-  F3RC（エフキューブ）とは、複数の大学が合同で開催している、
-  NHKロボコンへの参加を目指す新入生の技術向上を目的としたロボットコンテストです。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
