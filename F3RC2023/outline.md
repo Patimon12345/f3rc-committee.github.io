@@ -16,8 +16,9 @@ layout: default
 <br><br>
 
 ## 資料
-[ルールブック Ver. 1.1（2023/6/15 14:40更新）](../data/2023/pdf/F3RC2023_RuleBook_Ver.1.1.pdf)     
-[フィールド図面・オブジェクト図面 Ver. 1.0 (2023/6/14 17:30公開)](../data/2023/pdf/F3RC2023_フィールド図面_オブジェクト図面_Ver.1.0.pdf)  
+[ルールブック Ver. 2.0（2023/7/4 20:30更新）](../data/2023/pdf/F3RC2023_RuleBook_Ver.2.0.pdf)     
+[フィールド図面・オブジェクト図面 Ver. 2.0 (2023/7/4 20:30公開)](../data/2023/pdf/F3RC2023_FieldObject_Ver.2.0.pdf)
+
 [応募要項](../data/2023/pdf/F3RC2023_応募要項.pdf)  
 [エントリーシートテンプレート](https://docs.google.com/document/d/101yoLQawgbYiCujdNwcQjeHOS12D2TT8R0zVmPGszss/edit)   
 
