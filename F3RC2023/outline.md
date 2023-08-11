@@ -19,7 +19,8 @@ layout: default
 [ルールブック Ver. 2.2（2023/8/8 9:00更新）](../data/2023/pdf/F3RC2023_RuleBook_Ver.2.2.pdf)  
 [フィールド図面・オブジェクト図面 Ver. 2.1 (2023/8/8 9:00更新)](../data/2023/pdf/F3RC2023_FieldObject_Ver.2.1.pdf)  
 [応募要項](../data/2023/pdf/F3RC2023_応募要項.pdf)  
-[エントリーシートテンプレート](https://docs.google.com/document/d/101yoLQawgbYiCujdNwcQjeHOS12D2TT8R0zVmPGszss/edit)   
+[エントリーシートテンプレート](https://docs.google.com/document/d/101yoLQawgbYiCujdNwcQjeHOS12D2TT8R0zVmPGszss/edit)  
+[ロボット説明書](https://docs.google.com/document/d/1tqZE7gCfSJ1ncucZCHEnFV-9ac9BjlD9hsN6qNAkj9w)   
 
 ## 大会出場までの流れ
 大会出場までの流れは以下の通りです。大会要項をよく読んで、エントリーシートを提出してください。
