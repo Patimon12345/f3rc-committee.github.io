@@ -6,6 +6,7 @@
 F<sup>3</sup>RC（エフキューブアールシー）とは、複数の大学が合同で開催している、NHKロボコンへの参加を目指す新入生の技術向上を目的としたロボットコンテストです。
 
 ## お知らせ
+**9/7 13:40** [試合結果のスプレッドシート](https://docs.google.com/spreadsheets/d/1_GzjlXAcU_mNr6SoAhCLZ9dy3D8ViCgOe0Wz9UQpK7Y/edit#gid=635802267)を公開しました。  
 **9/6 16:50** [ライブ配信について](/attend.md) のお知らせを掲載しました。  
 **9/4 17:10** [ご観覧について](/attend.html) を公開しました。  
 **8/24 16:00** [FAQ](../data/2023/pdf/F3RC2023_FAQ.pdf) を公開しました。  
