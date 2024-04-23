@@ -1,6 +1,7 @@
 ---
 title: 大会概要
 layout: default
+sort: 1
 ---
 # 2023年度大会概要
 
