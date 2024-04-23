@@ -1,6 +1,6 @@
 ---
 title: 2023年度大会
-sort: 1
+layout: default
 ---
 # [2023年度大会概要](/過去の大会/2023/outline.md)
 # [2023年度大会FAQ](/過去の大会/2023/FAQ.md)
