@@ -1,5 +1,6 @@
 ---
 title: FAQ
+sort: 2
 ---
 # こちらは過去の大会のFAQです。
 # FAQ
