@@ -28,6 +28,9 @@ NHK(ABU)ロボットコンテストにより近い環境で、ロボットコン
 ## 2024年度大会
 [大会概要](/F3RC2024/outline.html)
 
+## SNS
+[X(旧Twitter)](https://twitter.com/F3RC_robocon)
+
 ## 連絡先
 委員会メールアドレス：contact_dot_f3rc_dot_committee_at_gmail_dot_com  
 (_at_を@に、_dot_を.に変えてください)
