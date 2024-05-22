@@ -28,6 +28,14 @@ NHK(ABU)ロボットコンテストにより近い環境で、ロボットコン
 ## 2024年度大会
 [大会概要](/F3RC2024/outline.html)
 
+### 開催日時
+
+9/6(金)　9/7(土)
+
+### 開催場所
+
+明治大学生田キャンパス
+
 ## SNS
 [X(旧Twitter)](https://twitter.com/F3RC_robocon)
 
