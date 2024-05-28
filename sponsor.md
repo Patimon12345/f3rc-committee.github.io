@@ -16,7 +16,3 @@ F3RC委員会は大会参加者からの出場費を元に運営を行なって�
 
 
 以上の方法の支援以外にも様々な協賛方法が考えられますのでぜひ[お問い合わせページ](/contact.html)からご相談ください。
-
-## 2024年度大会スポンサー様
-## Autodesk ##
-![autodesk-logo-primary-rgb-black-large (3)](https://github.com/F3RC-committee/f3rc-committee.github.io/assets/164468008/783fb6a9-bae4-46f8-a4c4-87e64adb4d75)
