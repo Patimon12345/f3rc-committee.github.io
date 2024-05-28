@@ -20,3 +20,7 @@ layout: default
 ## 資料
 
 ## 大会出場までの流れ
+
+## 2024年度大会スポンサー様
+## Autodesk様 ##
+![autodesk-logo-primary-rgb-black-large (3)](https://github.com/F3RC-committee/f3rc-committee.github.io/assets/164468008/783fb6a9-bae4-46f8-a4c4-87e64adb4d75)
