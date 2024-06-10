@@ -19,7 +19,7 @@ layout: default
 
 ## 資料
 [ル―ルブック(ver1.0)](../../data/2024/pdf/F3RC2024_rulebook_v10)  
-[フィールド図面・オブジェクト図面(ver1.0)](../../data/2024/pdf/F3RC2024_field_and_object_v10.pdf)  
+[フィールド図面・オブジェクト図面(ver1.0)](data/2024/pdf/F3RC2024_field_and_object_v10.pdf)  
 [応募要項](../../data/2024/pdf/F3RC2024_guidelines.pdf)  
 [エントリーシートテンプレート](https://f3rc-committee.slack.com/files/U06LPD8UZ0D/F0779C160AE/f3rc2024_entry_sheet.docx)  
 
