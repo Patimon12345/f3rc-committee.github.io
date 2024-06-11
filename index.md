@@ -3,11 +3,8 @@
 F<sup>3</sup>RC（エフキューブアールシー）とは、複数の大学が合同で開催している、NHKロボコンへの参加を目指す新入生の技術向上を目的としたロボットコンテストです。
 
 ## お知らせ
-開催日時 9/6(金) 9/7(土)
 
-開催場所　明治大学生田キャンパス
-
-に決定しました
+<a class="twitter-timeline" data-height="800" href="https://twitter.com/F3RC_robocon?ref_src=twsrc%5Etfw">Tweets by F3RC_robocon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## 2024年度大会
