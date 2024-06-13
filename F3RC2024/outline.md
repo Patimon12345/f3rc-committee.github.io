@@ -37,3 +37,8 @@ layout: default
 ## 2024年度大会スポンサー様
 ## Autodesk様 ##
 ![autodesk-logo-primary-rgb-black-large (3)](https://github.com/F3RC-committee/f3rc-committee.github.io/assets/164468008/783fb6a9-bae4-46f8-a4c4-87e64adb4d75)
+
+## 更新履歴
+6/10 (月)　ルールブック・フィールド図・エントリーシート公開
+
+6/11 (火)　フィールド図の変更(ver2.0)
