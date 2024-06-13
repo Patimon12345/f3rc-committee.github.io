@@ -31,7 +31,7 @@ NHK(ABU)ロボットコンテストにより近い環境で、ロボットコン
 
 ### 開催場所
 
-明治大学生田キャンパス体育館
+明治大学 生田キャンパス体育館
 
 ## SNS
 [X(旧Twitter)](https://twitter.com/F3RC_robocon)
