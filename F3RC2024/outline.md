@@ -22,25 +22,29 @@ layout: default
 [フィールド・オブジェクト図面 Ver.2.0](../data/2024/pdf/F3RC2024_field_and_object_v20.pdf)  
 [応募要項](../data/2024/pdf/F3RC2024_guidelines_0610.pdf)  
 [エントリーシート](../data/2024/Word/F3RC2024_entry_sheet.docx)
+[ロボット説明書テンプレート](../data/2024/Word/F3RC2024_ロボット説明書_テンプレート.docx)  
+
+## ロボット説明書提出について
+[こちらのGoogle forms](https://docs.google.com/forms/d/e/1FAIpQLSdO75wLbCaaYp_whQvZue3E9YFoKH3osB0EshDbLM3lWw0xhw/viewform?usp=sf_link)より、**8月20日 (火) 18時 まで**に提出をお願いします。
 
 ## 大会出場までの流れ
-大会出場までの流れは以下の通りです。大会要項をよく読んで、エントリーシートを提出してください。
+大会出場までの流れは以下の通りです。
 
-1. エントリーシート・ルール資料公開：2024年6月10日 (月)
-2. エントリーシート締切：6月30日 (日) 18時 まで
-3. ロボット説明書テンプレート公開：6月30日 (日)
+1. ~~エントリーシート・ルール資料公開：2024年6月10日 (月)~~
+2. ~~エントリーシート締切：6月30日 (日) 18時 まで~~
+3. ~~ロボット説明書テンプレート公開：6月30日 (日)~~
 4. ロボット説明書締切：8月20日 (火) 18時 まで
 5. 大会出場：9月6日 (金) 、9月7日 (土)
-
-エントリーシートの提出は[こちら](https://docs.google.com/forms/d/e/1FAIpQLScrWJZhFGGzij2I97wo-64ZBthRO-mgopbNLmZY4XdOHR8HYA/viewform?usp=sf_link)
 
 ## 2024年度大会スポンサー様
 ## Autodesk様 ##
 ![autodesk-logo-primary-rgb-black-large (3)](https://github.com/F3RC-committee/f3rc-committee.github.io/assets/164468008/783fb6a9-bae4-46f8-a4c4-87e64adb4d75)
 
 ## 更新履歴
-6/10 (月)　ルールブック・フィールド図・エントリーシート公開
+6/10 (月) ルールブック・フィールド図・エントリーシート公開
 
-6/11 (火)　フィールド図の変更(ver2.0)
+6/11 (火) フィールド図の変更(ver2.0)
 
-6/17 (月)　FAQフォーム公開
+6/17 (月) FAQフォーム公開
+
+7/02 (火) ロボット説明書テンプレート・提出フォーム公開
