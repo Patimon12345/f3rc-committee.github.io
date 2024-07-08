@@ -18,7 +18,7 @@ layout: default
 
 
 ## 資料
-[ル―ルブック Ver.1.1](../data/2024/pdf/F3RC2024_rulebook_v11.pdf)  
+[ル―ルブック Ver.1.2](../data/2024/pdf/F3RC2024_rulebook_v12.pdf)  
 [フィールド・オブジェクト図面 Ver.2.0](../data/2024/pdf/F3RC2024_field_and_object_v20.pdf)  
 [応募要項](../data/2024/pdf/F3RC2024_guidelines_0610.pdf)  
 [エントリーシート](../data/2024/Word/F3RC2024_entry_sheet.docx)
