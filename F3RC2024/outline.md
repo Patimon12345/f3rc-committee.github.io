@@ -38,6 +38,8 @@ layout: default
 
 ## 2024年度大会スポンサー様(五十音順)
 
+<style>.company-logo{max-width: min(100%, 35em)}</style>
+
 ### Autodesk 様
 <img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/164468008/783fb6a9-bae4-46f8-a4c4-87e64adb4d75" alt="autodesk-logo-primary-rgb-black-large" class="company-logo">
 
