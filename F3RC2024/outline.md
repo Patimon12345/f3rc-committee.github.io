@@ -36,9 +36,13 @@ layout: default
 4. ロボット説明書締切：8月20日 (火) 18時 まで
 5. 大会出場：9月6日 (金) 、9月7日 (土)
 
-## 2024年度大会スポンサー様
-## Autodesk様 ##
-![autodesk-logo-primary-rgb-black-large (3)](https://github.com/F3RC-committee/f3rc-committee.github.io/assets/164468008/783fb6a9-bae4-46f8-a4c4-87e64adb4d75)
+## 2024年度大会スポンサー様(五十音順)
+
+### Autodesk 様
+<img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/164468008/783fb6a9-bae4-46f8-a4c4-87e64adb4d75" alt="autodesk-logo-primary-rgb-black-large" class="company-logo">
+
+### <img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/101381500/9448899f-318d-4b46-845d-7334b18e3243" alt="subaru-corporate-name-logo" style="height: 1em;"> 様
+<img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/101381500/2fec54b9-b4c3-433e-bca6-808efe6f848f" alt="subaru-logo" class="company-logo">
 
 ## 更新履歴
 6/10 (月) ルールブック・フィールド図・エントリーシート公開
