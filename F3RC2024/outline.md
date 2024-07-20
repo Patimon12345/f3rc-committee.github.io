@@ -23,6 +23,7 @@ layout: default
 [応募要項](../data/2024/pdf/F3RC2024_guidelines_0610.pdf)  
 [エントリーシート](../data/2024/Word/F3RC2024_entry_sheet.docx)
 [ロボット説明書テンプレート](../data/2024/Word/F3RC2024_ロボット説明書_テンプレート.docx)  
+[FAQ ver.1.0](../data/2024/pdf/F3RC2024_faq_v10.pdf)
 
 ## ロボット説明書提出について
 [こちらのGoogle forms](https://docs.google.com/forms/d/e/1FAIpQLSdO75wLbCaaYp_whQvZue3E9YFoKH3osB0EshDbLM3lWw0xhw/viewform?usp=sf_link)より、**8月20日 (火) 18時 まで**に提出をお願いします。
