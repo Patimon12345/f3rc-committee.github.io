@@ -4,7 +4,7 @@ F<sup>3</sup>RC（エフキューブアールシー）とは、複数の大学�
 
 ## お知らせ
 
-<a class="twitter-timeline" data-height="600" href="https://twitter.com/F3RC_robocon?ref_src=twsrc%5Etfw">Tweets by F3RC_robocon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="500" href="https://twitter.com/F3RC_robocon?ref_src=twsrc%5Etfw">Tweets by F3RC_robocon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## 2024年度大会
