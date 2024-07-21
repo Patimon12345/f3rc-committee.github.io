@@ -3,7 +3,7 @@
 F<sup>3</sup>RC（エフキューブアールシー）とは、複数の大学が合同で開催している、NHKロボコンへの参加を目指す新入生の技術向上を目的としたロボットコンテストです。
 
 ## お知らせ
-
+現在X(旧Twitter)のタイムライン埋め込みが上手く機能しない不具合が発生しております。お手数をおかけしますが<a href="https://twitter.com/F3RC_robocon">X.com</a>に直接アクセスしてご覧ください。
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/F3RC_robocon?ref_src=twsrc%5Etfw">Tweets by F3RC_robocon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
