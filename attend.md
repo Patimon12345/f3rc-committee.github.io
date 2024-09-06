@@ -21,6 +21,12 @@ YouTube Liveでの配信を予定しております。
 会場
 : 明治大学 生田キャンパス体育館
 
+入場料
+: 無料
+
+持ち物
+: 上履きまたはスリッパ
+
 パンフレット
 : [pdfファイルダウンロード](https://f3rc-committee.github.io/data/2024/pdf/F3RC2024_brochure.pdf)
 ![F3RC2024_brochure_img](https://github.com/user-attachments/assets/c4c92e12-75aa-40a2-8cde-1ef6ded720a4)
