@@ -28,5 +28,6 @@ YouTube Liveでの配信を予定しております。
 : 上履きまたはスリッパ
 
 パンフレット
-: [pdfファイルダウンロード](https://f3rc-committee.github.io/data/2024/pdf/F3RC2024_brochure.pdf)
+: 1チームの棄権があった関係上、表示のスケジュール通りに進まない可能性がございます。予めご了承ください。
+[pdfファイルダウンロード](https://f3rc-committee.github.io/data/2024/pdf/F3RC2024_brochure.pdf)
 ![F3RC2024_brochure_img](https://github.com/user-attachments/assets/c4c92e12-75aa-40a2-8cde-1ef6ded720a4)
