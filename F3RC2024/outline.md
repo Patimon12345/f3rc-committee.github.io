@@ -51,13 +51,4 @@ layout: default
 ### <img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/101381500/9448899f-318d-4b46-845d-7334b18e3243" alt="subaru-corporate-name-logo" style="height: 1em;"><span style="font-size:0">株式会社SUBARU</span> 様
 <a href="https://www.subaru.co.jp/outline/about/aerospace/" target="_blank"><img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/101381500/2fec54b9-b4c3-433e-bca6-808efe6f848f" alt="subaru-logo" class="company-logo"></a>
 
-## 更新履歴
-6/10 (月) ルールブック・フィールド図・エントリーシート公開
 
-6/11 (火) フィールド図の変更(ver2.0)
-
-6/17 (月) FAQフォーム公開
-
-7/02 (火) ロボット説明書テンプレート・提出フォーム公開
-
-7/20 (土) FAQ(ver1.0)公開
